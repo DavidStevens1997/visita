@@ -5,7 +5,7 @@ class Primero extends CI_Controller {
 	
 
 	function __construct() {
-        	parent::__construc();
+        	parent::__construct();
     	}
 
 	public function index() {
